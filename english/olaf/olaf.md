@@ -1,3 +1,3 @@
 The Ice Queen created Olaf!
 
-Fullmetal alchemist can also create Olaf. clicke[here](../alchemy/alchemy.md)
+I know a fullmetal alchemist can also create Olaf! click [here] (../Full Metal Alchemist/fma.md)
